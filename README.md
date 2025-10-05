@@ -8,5 +8,6 @@ A beginner-friendly Python toolkit for DNA/RNA analysis
 - GC content calculation
   <br/>
 **How to run the toolkit**
+  <br/>
 python dna_toolkit.py
 
