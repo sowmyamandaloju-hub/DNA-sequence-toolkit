@@ -1,6 +1,11 @@
-<<<<<<< HEAD
-# DNA-Sequence-toolkit
+
+# DNA-Sequence-toolkit🧬
 A beginner-friendly Python toolkit for DNA/RNA analysis
-=======
-# DNA-sequence-toolkit
->>>>>>> a17118e9fdf4585aa283e9c7b6305764fe2d2157
+## Features
+- Count nucleotides (A, T, G, C)
+- Transcription (DNA → RNA)
+- Reverse complement
+- GC content calculation
+**How to run the toolkit**
+python dna_toolkit.py
+
