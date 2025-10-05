@@ -6,6 +6,7 @@ A beginner-friendly Python toolkit for DNA/RNA analysis
 - Transcription (DNA → RNA)
 - Reverse complement
 - GC content calculation
+  <br/>
 **How to run the toolkit**
 python dna_toolkit.py
 
