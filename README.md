@@ -12,6 +12,7 @@ A beginner-friendly Python toolkit for DNA/RNA analysis
 python dna_toolkit.py
 <br/>
 # EXAMPLE:
+<br/>
 Enter a DNA sequence: ATGCTTAG
 <br/>
 Results:
